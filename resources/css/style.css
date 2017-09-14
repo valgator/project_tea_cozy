@@ -107,11 +107,10 @@ a {
 .location {
   display: flex;
   flex-direction: column;
-  flex-basis: 275px;
   opacity: 1.0;
   background-color: black;
+  flex-basis: 300px;
   height: 300px;
-  width: 300px;
   margin: 5px 20px;
   justify-content: center;
   align-items: center;
@@ -126,7 +125,6 @@ a {
 
 /* Contact Tea Cozy */
 .contact-us {
-  padding-top: 10px;
   height: 200px;
 }
 
